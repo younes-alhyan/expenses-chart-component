@@ -1,4 +1,4 @@
-# 📁 Expenses Chart Component
+# 📂 Expenses Chart Component
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg)
 
